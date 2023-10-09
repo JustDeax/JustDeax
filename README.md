@@ -2,13 +2,13 @@
 
 `README.md`
 
-**Birthday**: 26 августа;
+**Birthday**: 26 august;
 
 **Country**: Kazakhstan;
 
 **Programming**: Currently learn java, kotlin;
 
-**Спорт** Anaerobic training;
+**Type sport** Anaerobic training;
 
 **Discord** justdeax;
 

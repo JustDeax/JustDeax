@@ -8,8 +8,8 @@
 
 **Programming**: Currently learn java, kotlin;
 
-**Type sport** Anaerobic training;
+**Type sport**: Gym Training;
 
-**Discord** justdeax;
+**Discord**: justdeax;
 
-**Main project** none;
+**Main project**: LifeOrganaizer;

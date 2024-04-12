@@ -11,8 +11,11 @@
 </div>
 
 **Birthday**: 26 august
+
 **Country**: Kazakhstan
+
 **Programming**: Currently learn java, kotlin
+
 **Discord**: @justdeax
 
 **Main Project**: [Life Organizer](https://github.com/JustDeax/LifeOrganizer) NOW IN PRIVATE

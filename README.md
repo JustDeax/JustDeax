@@ -4,11 +4,11 @@
 	<a href="https://github.com/JustDeax/JustDeax" target="_blank">𝓙𝓾𝓼𝓽𝓓𝓮𝓪𝔁</a> 
 	<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<div style="text-align: center;">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Tilt+Neon&size=30&duration=3000&pause=2000&center=true&vCenter=true&random=false&width=600&height=30&lines=Beginner+Android+Developer" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 **Birthday**: 26 august
 

@@ -21,7 +21,7 @@
 **Main Project**: [Life Organizer](https://github.com/JustDeax/LifeOrganizer) NOW IN PRIVATE
 
 **About me**
->I like to keep a Notes system
->I study a little philosophy
->I learn English
->Working out at the Gym
+>I like to keep a Notes system.
+>I study a little philosophy.
+>I learn English.
+>Working out at the Gym.

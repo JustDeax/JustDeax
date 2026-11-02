@@ -1,5 +1,5 @@
 
-# Hi, I'm JustDeax
+# Hi, I'm [JustDeax](https://github.com/JustDeax/JustDeax)
 
 ### Software Engineering Student | Android Developer
 Focused on native Android (Kotlin, Jetpack Compose, Coroutines/Flow) and clean architecture. Passionate about robust system design and currently expanding into JVM backend engineering.
@@ -36,6 +36,6 @@ Focused on native Android (Kotlin, Jetpack Compose, Coroutines/Flow) and clean a
 * **OS:** Arch Linux, Fedora
 * **DE:** GNOME
 * **IDEs:** IntelliJ IDEA, Android Studio, VS Code
-* **Apps:** Obsidian, Google tasks, Zen browser, Librawolf, Chromium, Custom YT Music
+* **Apps:** Obsidian, Google Tasks, Zen Browser, Librawolf, Chromium, Custom YT Music
 
 ---
